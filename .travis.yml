@@ -13,4 +13,6 @@ deploy:
     secure: w3ibOIY7ag8DMF/yEfQKjUG7WwCSh0+hv5QEsQ2eCw0H+XYc6uM6TiI4x9H6UoJ5/U1SswTMmTQFTkY9zugAxfxIGK4EUbyejdQ1O/5+Vx7uFmEvHXHzC64p/7sSOuAJBrr5YIKWAbRHumvbxYg2KWOHwXm7pqsSzlDgaO5caXzsrsEDaIlz2FEM9OIP/d+2cmMTVb86f+j/UHqLnWCAVEW97HWWHiuGB7KXIthGr8+Z35/y01yvYPlapx2yWshYRfjBLdqgx34ar3thHS2EE449V7KOI1qG4Wjfws0uWxG+KNXlIkJ9SEm3mWCKee60irmqU5pGacgV6Y991VirNma4t0NesJRImB1DZ88M4bUWThW4VnpngiyBDKpvgqBQep+GN5haDnxbFzJU4S42vVOwh7x5jnJEfnXuWrZTRtsTfQJ3iOnodcsipOkg5XLo9P883Hb4h3S4s5ahZtLAcqBTYnl+LLElXBTLx5oVGB5UDBMavHk9ILHygSxsb/i1F+uDmCUMRuVd7EL1veQ9iTNCze7I7cNJ5tRn/xmMHp64x/3kwO8V/FIiWnrVGitB5NKsctPlbaM6smZEzDHBqpj0IkkPUqGOWBzEhnBjkNOETYmdugLBIFSXTZ7dPj71kuX2W6DJDCoi0B9w3mTG2pJpIxM1rSkzWWCPOMf4ifI=
   app: desolate-taiga-3930
   on:
+    branch: master
+    python: '3.4'
     repo: mnuman/rp2flasktaskr
